@@ -508,7 +508,7 @@ def create_gui():
 
     main_window = tk.Tk()
     main_window.title("Error404")
-    main_window.geometry("680x695")
+    main_window.geometry("680x920")
     main_window.configure(bg="#000000")
 
     
